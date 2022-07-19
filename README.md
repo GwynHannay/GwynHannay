@@ -4,7 +4,7 @@
 A passionate data nerd living in Western Australia.
 
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&hide_title=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Toolbox
 
