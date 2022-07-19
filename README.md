@@ -8,7 +8,10 @@ A passionate data nerd living in Western Australia.
 
 ### My Toolbox
 
-Staples of my life:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="80" height="80" />
+
+(TBC)
+<!--
 <details>
 <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" />
 <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" />
@@ -53,11 +56,11 @@ Used at work:
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </details>
-
+-->
 
 ### Reach Me
 
-<a href="https://www.linkedin.com/in/gwynhannay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gwynhannay/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" /></a>
 
 <!--
 **GwynHannay/GwynHannay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
