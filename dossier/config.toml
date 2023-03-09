@@ -1,0 +1,87 @@
+baseURL = '/'
+languageCode = 'en-gb'
+title = "Gwyn's Dossier"
+theme = "poison"
+paginate = 10
+pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+
+[params]
+    brand = "Gwyn's Dossier"                      # name of your site - appears in the sidebar
+    brand_image = "/images/Video_Chat.jpg"    # path to the image shown in the sidebar
+    description = "Data Extraordinaire"
+    # dark_mode = true                      # optional - defaults to false
+
+    # MENU PLACEHOLDER
+    # Menu dict keys:
+        # Name:         The name to display on the menu.
+        # URL:          The directory relative to the content directory.
+        # HasChildren:  If the directory's files should be listed.  Default is true.
+        # Limit:        If the files should be listed, how many should be shown.
+    menu = [
+        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 3},
+        {Name = "Experience", URL = "/experience/", HasChildren = true, Limit = 3},
+        {Name = "Education", URL = "/education/", HasChildren = true, Limit = 3},
+        {Name = "Technology", URL = "/technology/"},
+    ]
+
+    # Links to your socials.  Delete any you don't need/use. 
+    github_url = "https://github.com/GwynHannay"
+    # gitlab_url = "https://gitlab.com"
+    linkedin_url = "https://linkedin.com/in/gwynhannay/"
+    # twitter_url = "https://twitter.com"
+    mastodon_url = "https://mastodon.social/@GwynHannay"
+    # tryhackme_url = "https://tryhackme.com"
+    # discord_url = "https://discord.com"
+    # youtube_url = "https://youtube.com"
+    # instagram_url = "https://instagram.com"
+    # facebook_url = "https://facebook.com"
+
+    # Orchid colour scheme:
+    # 023B59 - Denim
+    # ed0b70 - Orchid (pink)
+    # 482673 - Purple
+    # f6ebf4 - Soft Lilac (grey)
+    # 4cbfa6 - Turquoise
+
+    # Classic Double Blue colour scheme:
+    # 12232E - Dark Blue (darkest)
+    # 007CC7 - Lighter Blue
+    # 4DA8DA - Lightest Blue
+    # 203647 - Shadow of Dark Blue
+    # EEFBFB - Shadow of Light Blue (grey / white)
+
+    # Hex colors for your sidebar.
+    sidebar_bg_color = "#203647"            # default is #202020
+    sidebar_img_border_color = "#007CC7"    # default is #515151
+    sidebar_p_color = "#4DA8DA"             # default is #909090
+    sidebar_h1_color = "#EEFBFB"               # default is #FFF
+    sidebar_a_color = "#EEFBFB"                # default is #FFF
+    sidebar_socials_color = "#EEFBFB"          # default is #FFF
+    moon_sun_color = "#EEFBFB"                 # default is #FFF
+    moon_sun_background_color = "#007CC7"   # default is #515151
+
+    # Hex colors for your content in light mode.
+    text_color = "#12232E"             # default is #222
+    content_bg_color = "#FAF9F6"    # default is #FAF9F6
+    post_title_color = "#203647"    # default is #303030
+    list_color = "#203647"          # default is #5a5a5a
+    link_color = "#007CC7"          # default is #268bd2
+    date_color = "#515151"          # default is #515151
+    table_border_color = "#203647"  # default is #E5E5E5
+    table_stripe_color = "#007CC7"  # default is #F9F9F9
+
+    # Hex colors for your content in dark mode
+    text_color_dark = "#eee"            # default is #eee
+    content_bg_color_dark = "#12232E"   # default is #121212
+    post_title_color_dark = "#DBE2E9"   # default is #DBE2E9
+    list_color_dark = "#9d9d9d"         # default is #9d9d9d
+    link_color_dark = "#007CC7"         # default is #268bd2
+    date_color_dark = "#4DA8DA"         # default is #9a9a9a
+    table_border_color_dark = "#515151" # default is #515151
+    table_stripe_color_dark = "#202020" # default is #202020
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
+    technology = 'technology'

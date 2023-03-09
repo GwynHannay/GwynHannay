@@ -1,0 +1,9 @@
+{{ if .Params.technology }}
+{{ $Site := .Site }}
+<h3>Technology Used</h3>
+<ul>
+    {{ range .Params.technology }}
+    <li><a href="{{ $Site.BaseURL }}technology/{{ . | urlize }}">{{ . }}</a></li>
+    {{ end }}
+</ul>
+{{ end }}
