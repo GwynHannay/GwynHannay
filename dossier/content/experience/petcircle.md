@@ -10,6 +10,9 @@ technology:
     - "BigQuery"
     - "Python"
     - "SQL"
+    - "Java"
+    - "Cloud Functions"
+    - "Cloud Workflow"
 ---
 
 **Pet Circle** - 
@@ -18,7 +21,9 @@ technology:
 Blurb.
 
 ### Responsibilities
-- List
+- Assist co-founder in establishing a new data practice: Data & Algorithms.
+- Design and develop data pipelines.
+- Design and develop models in the data warehouse for end users.
 
 ### Employer
 About.

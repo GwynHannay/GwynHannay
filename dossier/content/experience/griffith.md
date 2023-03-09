@@ -17,7 +17,8 @@ technology:
 Blurb.
 
 ### Responsibilities
-- List
+- Design and development of an OLTP database and web UI for an RFID Disaster Victim Identification System.
+- 
 
 ### Employer
 About.

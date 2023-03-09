@@ -8,6 +8,7 @@ tags:
     - "Consulting"
 technology:
     - "Power BI"
+    - "SQL Server"
 ---
 
 **Insight (formerly Ignia)** - 
@@ -17,6 +18,9 @@ Blurb.
 
 ### Responsibilities
 - List
+
+### Client Projects
+- Department of Housing (now Communities)
 
 ### Employer
 About.
