@@ -28,9 +28,9 @@ A passionate data nerd living in Western Australia.
  <img align="center" src="https://github-readme-stats-two-dusky-63.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320" />
 </picture>
 
-### My Toolbox
+<!-- ### My Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="80" height="80" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="80" height="80" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" /> -->
 
 <!--
 <details>
