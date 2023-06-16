@@ -7,14 +7,14 @@ A passionate data nerd living in Western Australia.
 
 <picture>
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=false&disable_animations=true"
+  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=dark&count_private=true&hide_title=false&disable_animations=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_title=false&disable_animations=true"
+  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=graywhite&count_private=true&hide_title=false&disable_animations=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" src="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&disable_animations=true" />
+<img align="center" src="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&count_private=true&hide_title=false&disable_animations=true" />
 </picture>
 <picture>
 <source
