@@ -4,8 +4,8 @@
 A passionate data nerd living in Western Australia.
 
 ---
-[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=false&disable_animations=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_title=false&disable_animations=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&hide_title=false&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&hide_title=false&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Toolbox
 
