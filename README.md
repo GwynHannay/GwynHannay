@@ -5,7 +5,7 @@ A passionate data nerd living in Western Australia.
 
 ---
 [![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=false&disable_animations=true#gh-dark-mode-only)](https://github.com/GwynHannay/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_title=false&disable_animations=true#gh-light-mode-only)](https://github.com/GwynHannay/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&hide_title=false&disable_animations=true#gh-light-mode-only)](https://github.com/GwynHannay/github-readme-stats#gh-light-mode-only)
 
 ### My Toolbox
 
