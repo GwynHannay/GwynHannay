@@ -7,25 +7,25 @@ A passionate data nerd living in Western Australia.
 
 <picture>
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=dark&count_private=true&hide_title=false&disable_animations=true&rank_icon=github"
+  srcset="https://github-readme-stats-gwynhannay.vercel.app/api?username=GwynHannay&show_icons=true&theme=dark&count_private=true&hide_title=false&disable_animations=true&rank_icon=github"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&theme=graywhite&count_private=true&hide_title=false&disable_animations=true&rank_icon=github"
+  srcset="https://github-readme-stats-gwynhannay.vercel.app/api?username=GwynHannay&show_icons=true&theme=graywhite&count_private=true&hide_title=false&disable_animations=true&rank_icon=github"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" src="https://github-readme-stats-two-dusky-63.vercel.app/api?username=GwynHannay&show_icons=true&count_private=true&hide_title=false&disable_animations=true&rank_icon=github" />
+<img align="center" src="https://github-readme-stats-gwynhannay.vercel.app/api?username=GwynHannay&show_icons=true&count_private=true&hide_title=false&disable_animations=true&rank_icon=github" />
 </picture>
 <picture>
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320&theme=dark"
+  srcset="https://github-readme-stats-gwynhannay.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-two-dusky-63.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320&theme=graywhite"
+  srcset="https://github-readme-stats-gwynhannay.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
- <img align="center" src="https://github-readme-stats-two-dusky-63.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320" />
+ <img align="center" src="https://github-readme-stats-gwynhannay.vercel.app/api/top-langs/?username=GwynHannay&size_weight=0&count_weight=1&langs_count=8&layout=compact&disable_animations=true&card_width=320" />
 </picture>
 
 <!-- ### My Toolbox
